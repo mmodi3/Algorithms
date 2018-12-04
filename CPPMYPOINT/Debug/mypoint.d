@@ -1,0 +1,1 @@
+mypoint.o: ../mypoint.cpp
